@@ -25,6 +25,6 @@
     "aosika": { "api": "https://aosikazy.com/api.php/provide/vod/", "name": "奥斯卡", "detail": "https://aosikazy.com" },
     "shandianzy": { "api": "https://sdzyapi.com/api.php/provide/vod/", "name": "闪电资源", "detail": "https://sdzyapi.com" },
     "huohuzy": { "api": "https://hhzyapi.com/api.php/provide/vod/", "name": "火狐资源", "detail": "https://hhzyapi.com" },
-    "xiaomaomi": { "api": "https://zy.xmm.hk/api.php/provide/vod", "name": "猫咪资源" }
+    "xiaomaomi": { "api": "https://zy.xmm.hk/api.php/provide/vod", "name": "小猫咪资源" }
   }
 }
